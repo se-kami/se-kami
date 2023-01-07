@@ -1,8 +1,24 @@
 Currently working on domain adaptation algorithms.
 
-Background: Math -> Physics -> ML
+## Paper implementations
+### Domain adaptatin
+- LAMDA: Label Matching Deep Domain Adaptation
+### Random popular papers
+- Transformer
+- Vision Transformer
+- ResNet
 
-contacts:
+
+## Setup
+WM: dwm
+terminal: st
+editor: nvim
+distro: most recently artix
+
+## Background
+Math -> Physics -> ML -> Deep Learning
+
+## Contacts
 - [LinkedIn](https://www.linkedin.com/in/%C5%A1ekarlo/)
 - [email](serbetar.karlo.p@protonmail.com)
 
