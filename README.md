@@ -1,38 +1,28 @@
 Currently working on domain adaptation algorithms.
 
 ## Paper implementations
-### Domain adaptatin
+### Domain adaptation
 - LAMDA: Label Matching Deep Domain Adaptation
+- DANN: Unsupervised Domain Adaptation by Backpropagation
 ### Random popular papers
 - Transformer
 - Vision Transformer
 - ResNet
-
+### Other
+- (maybe) useful pytorch templates/snippets
+- pytorch dataloaders for some domain adaptation datasets
 
 ## Setup
-WM: dwm
+DL framework: pytorch
+shell: zsh
 terminal: st
+WM: dwm
 editor: nvim
-distro: most recently artix
+distro: artix
 
 ## Background
-Math -> Physics -> ML -> Deep Learning
+Math -> Physics -> DS -> ML -> Deep Learning
 
 ## Contacts
 - [LinkedIn](https://www.linkedin.com/in/%C5%A1ekarlo/)
 - [email](serbetar.karlo.p@protonmail.com)
-
-<!--
-**se-kami/se-kami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
