@@ -2,6 +2,8 @@ Currently working on domain adaptation algorithms.
 
 Background: Math -> Physics -> ML
 
+contacts:
+[LinkedIn](https://www.linkedin.com/in/%C5%A1ekarlo/)
 <!--
 **se-kami/se-kami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
