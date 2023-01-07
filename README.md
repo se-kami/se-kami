@@ -1,4 +1,6 @@
-Math -> Physics -> ML
+Currently working on domain adaptation algorithms.
+
+Background: Math -> Physics -> ML
 
 <!--
 **se-kami/se-kami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
