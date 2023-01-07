@@ -13,12 +13,12 @@ Currently working on domain adaptation algorithms.
 - pytorch dataloaders for some domain adaptation datasets
 
 ## Setup
-DL framework: pytorch
-shell: zsh
-terminal: st
-WM: dwm
-editor: nvim
-distro: artix
+- DL framework: PyTorch
+- shell: zsh
+- terminal: st
+- WM: dwm
+- editor: nvim
+- distro: artix
 
 ## Background
 Math -> Physics -> DS -> ML -> Deep Learning
