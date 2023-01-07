@@ -9,8 +9,8 @@ Currently working on domain adaptation algorithms.
 - Vision Transformer
 - ResNet
 ### Other
-- (maybe) useful pytorch templates/snippets
-- pytorch dataloaders for some domain adaptation datasets
+- (maybe) useful PyTorch templates/snippets
+- PyTorch dataloaders for some domain adaptation datasets
 
 ## Setup
 - DL framework: PyTorch
@@ -25,4 +25,4 @@ Math -> Physics -> DS -> ML -> Deep Learning
 
 ## Contacts
 - [LinkedIn](https://www.linkedin.com/in/%C5%A1ekarlo/)
-- [email](serbetar.karlo.p@protonmail.com)
+- [email](mailto:serbetar.karlo.p@protonmail.com)
