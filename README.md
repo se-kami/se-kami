@@ -10,7 +10,7 @@ Currently working on domain adaptation algorithms.
 - ResNet
 ### Other
 - (maybe) useful PyTorch templates/snippets
-- PyTorch dataloaders for some domain adaptation datasets
+- [PyTorch dataloaders for some domain adaptation datasets](https://github.com/se-kami/da_datasets)
 
 ## Setup
 - DL framework: PyTorch
