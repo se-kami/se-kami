@@ -3,7 +3,7 @@ Currently working on domain adaptation algorithms.
 ## Paper implementations
 ### Domain adaptation
 - [LAMDA: Label Matching Deep Domain Adaptation](https://github.com/se-kami/lamda)
-- DANN: Unsupervised Domain Adaptation by Backpropagation
+- [DANN: Unsupervised Domain Adaptation by Backpropagation](https://github.com/se-kami/dann)
 ### Random popular papers
 - [Adam](https://github.com/se-kami/papers/tree/master/adam)
 - [AlexNet](https://github.com/se-kami/papers/tree/master/alexnet)
@@ -16,16 +16,16 @@ Currently working on domain adaptation algorithms.
 - [VGG](https://github.com/se-kami/papers/tree/master/vgg)
 - [ViT](https://github.com/se-kami/papers/tree/master/vit)
 ### Other
-- (maybe) useful PyTorch templates/snippets
+- [(maybe) useful PyTorch templates/snippets](https://github.com/se-kami/pytorch-collection)
 - [PyTorch dataloaders for some domain adaptation datasets](https://github.com/se-kami/da_datasets)
 
 ## Setup
-- DL framework: PyTorch
-- shell: zsh
-- terminal: st
-- WM: dwm
-- editor: nvim
-- distro: artix
+- DL framework: [PyTorch](https://github.com/se-kami/pytorch-collection)
+- shell: [zsh](https://github.com/se-kami/shell-utils)
+- terminal: [st](https://github.com/se-kami/st)
+- WM: [dwm](https://github.com/se-kami/dwm)
+- editor: [nvim](https://github.com/se-kami/nvim)
+- distro: [artix](https://github.com/se-kami/artix-install)
 
 ## Background
 Math -> Physics -> DS -> ML -> Deep Learning
