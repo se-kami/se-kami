@@ -2,7 +2,7 @@ Currently working on domain adaptation algorithms.
 
 ## Paper implementations
 ### Domain adaptation
-- LAMDA: Label Matching Deep Domain Adaptation
+- [LAMDA: Label Matching Deep Domain Adaptation](https://github.com/se-kami/lamda)
 - DANN: Unsupervised Domain Adaptation by Backpropagation
 ### Random popular papers
 - [Adam](https://github.com/se-kami/papers/tree/master/adam)
