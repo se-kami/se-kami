@@ -4,6 +4,7 @@ Currently working on domain adaptation algorithms.
 ### Domain adaptation
 - [LAMDA: Label Matching Deep Domain Adaptation](https://github.com/se-kami/lamda)
 - [DANN: Unsupervised Domain Adaptation by Backpropagation](https://github.com/se-kami/dann)
+- [ADDA: Adversarial Discriminative Domain Adaptation](https://github.com/se-kami/adda)
 ### Random popular papers
 - [Adam](https://github.com/se-kami/papers/tree/master/adam)
 - [AlexNet](https://github.com/se-kami/papers/tree/master/alexnet)
