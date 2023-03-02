@@ -9,6 +9,7 @@ Currently working on domain adaptation algorithms.
 - [Adam](https://github.com/se-kami/papers/tree/master/adam)
 - [AlexNet](https://github.com/se-kami/papers/tree/master/alexnet)
 - [EfficientNet](https://github.com/se-kami/papers/tree/master/efficientnet)
+- [GAN](https://github.com/se-kami/GAN)
 - [InceptionNet](https://github.com/se-kami/papers/tree/master/inceptionnet)
 - [LeNet](https://github.com/se-kami/papers/tree/master/lenet)
 - [M-LSTM](https://github.com/se-kami/papers/tree/master/m-lstm)
