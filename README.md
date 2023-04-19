@@ -1,5 +1,11 @@
 Currently working on domain adaptation algorithms.
 
+## NLP
+- [Random collection of NLP problems in pytorch](https://github.com/se-kami/NLP)
+- [Simple NMT in pytorch using torchtext](https://github.com/se-kami/NLP/tree/master/nmt-transformer)
+- [Given a language, generate a fake name that looks real using a transformer decoder](https://github.com/se-kami/NLP/tree/master/name-generation-transformer)
+- [Given a name, find the country of origin using a transformer encoder)(https://github.com/se-kami/NLP/tree/master/name-classification-transformer)
+
 ## Paper implementations
 ### Domain adaptation
 - [LAMDA: Label Matching Deep Domain Adaptation](https://github.com/se-kami/lamda)
