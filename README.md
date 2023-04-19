@@ -11,6 +11,7 @@ Currently working on domain adaptation algorithms.
 - [LAMDA: Label Matching Deep Domain Adaptation](https://github.com/se-kami/lamda)
 - [DANN: Unsupervised Domain Adaptation by Backpropagation](https://github.com/se-kami/dann)
 - [ADDA: Adversarial Discriminative Domain Adaptation](https://github.com/se-kami/adda)
+- [CAFEL: Confidence-Aware Uncertainty Balancing for Robust Facial Expression Learning (first author)](https://github.com/se-kami/cvpr-2023-abaw-expr) 
 ### Random popular papers
 - [Adam](https://github.com/se-kami/papers/tree/master/adam)
 - [AlexNet](https://github.com/se-kami/papers/tree/master/alexnet)
