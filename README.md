@@ -123,16 +123,14 @@ experiments.
 
 ## Development environment
 
-I also keep my daily Linux setup in public repositories. It is intentionally
-small and keyboard-driven:
+My daily Linux environment is collected in
+[setup](https://github.com/se-kami/setup): Artix installation notes, Zsh and
+Neovim configuration, shell utilities, and dwmblocks status modules.
 
-- **Shell:** [Zsh utilities](https://github.com/se-kami/shell-utils)
-- **Editor:** [Neovim configuration](https://github.com/se-kami/nvim)
-- **Terminal:** [st configuration](https://github.com/se-kami/st)
-- **Window manager:** [dwm](https://github.com/se-kami/dwm),
-  [dmenu](https://github.com/se-kami/dmenu), and
-  [dwmblocks modules](https://github.com/se-kami/dwmblocks-modules)
-- **Linux:** [Artix installation notes and scripts](https://github.com/se-kami/artix-install)
+The patched applications have their own source and build instructions:
+
+- **Window manager:** [dwm](https://github.com/se-kami/dwm)
+- **Terminal:** [st](https://github.com/se-kami/st)
 
 ## Get in touch
 
