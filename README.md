@@ -125,12 +125,13 @@ experiments.
 
 My daily Linux environment is collected in
 [setup](https://github.com/se-kami/setup): Artix installation notes, Zsh and
-Neovim configuration, shell utilities, and dwmblocks status modules.
+Neovim configuration, and shell utilities.
 
-The patched applications have their own source and build instructions:
+The desktop components are maintained separately:
 
 - **Window manager:** [dwm](https://github.com/se-kami/dwm)
 - **Terminal:** [st](https://github.com/se-kami/st)
+- **Status bar:** [dwmblocks modules](https://github.com/se-kami/dwmblocks-modules)
 
 ## Get in touch
 
